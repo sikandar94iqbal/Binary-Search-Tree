@@ -20,7 +20,7 @@ A Binary Search Tree (BST) is a tree in which all the nodes follow the below-men
 BST is a collection of nodes arranged in a way where they maintain BST properties. Each node has a key and an associated value. While searching, the desired key is compared to the keys in BST and if found, the associated value is retrieved.
 
 
-<img src="binary_search_tree.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="415" />
+<img src="binary_search_tree.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="315" />
 
 We observe that the root node key (27) has all less-valued keys on the left sub-tree and the higher valued keys on the right sub-tree.
 
