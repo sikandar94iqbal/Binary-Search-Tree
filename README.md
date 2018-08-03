@@ -7,7 +7,7 @@ Implementation of BST in C++
 
 
 
-<img src="BST.JPG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="415" />
+<img src="bst.JPG" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="415" />
 
 ## BST
 
